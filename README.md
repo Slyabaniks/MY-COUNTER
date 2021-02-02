@@ -1,3 +1,4 @@
 # MY-COUNTER
 Testing my javascript to build a simple counter
-site:https://slyabaniks.github.io/MY-COUNTER/
+
+you can check it out here:https://slyabaniks.github.io/MY-COUNTER/
