@@ -1,0 +1,57 @@
+//MY REACT NOTES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*for button menu
+
+.button {
+backround:#e7e7e7;
+border:1px solid;
+border-radius: 3px;
+font:700 13px Helvectica,Arail;
+height:30px;
+line-height:28px;
+padding:0 20px;
+text-align:center;
+margin-right:10px;
+box-sizing:border-box;
+}
+ul {
+padding:0;
+list-style-type:none;
+}
+li {
+display:inline;
+}
+a {
+color:#666;
+text-decoration:none;
+float:left;
+}
+a:hover{
+color:#000;
+background-color:#dadada;
+}
+*/
+
+COLORS FOR HOVER EFFECT
+
+1--#d3d3d3;with black text
+
+//2-- normal backround color:#e7e7e7;
+a:hover{
+color:#000;
+background-color:#dadada;
+}
+3--
